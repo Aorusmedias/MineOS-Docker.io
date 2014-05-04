@@ -1,4 +1,6 @@
 MineOS-Docker.io
 ================
 
-DockerFile for MineOS
+DockerFile MineOS for Docker.io
+
+En test :o)
